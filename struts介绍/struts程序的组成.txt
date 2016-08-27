@@ -54,7 +54,7 @@
   e.小结：在Struts搭建完毕之后的工作就是
     i.添加action以及业务处理model
     ii.在struts.xml中增加相应的action映射（包括返回值映射JSP）
-    iii.添加JSP页面，选择哪个JSP页面显示给用户是由action的返回值决定的
+    iii.添加JSP页面，选择哪个JSP页面显示给用户是由action的返回值决定的（JSP中可以使用Struts提供的标签）
 
 
 4.StrutsTest示例在外面的目录中给出
